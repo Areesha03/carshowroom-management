@@ -4,6 +4,7 @@
 This project is a desktop-based Car Showroom Management System built using Java (Swing for GUI) and
 MySQL as the backend database. It allows users to manage car inventory, customer data, and sales records
 in an integrated and user-friendly manner.
+
 **2. Modules of Java Application**
 - Dashboard: Central navigation window for accessing other modules.
 - Car Inventory: Allows adding, deleting, and viewing car data (Car ID, Brand, Model, Price, etc).
